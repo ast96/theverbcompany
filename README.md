@@ -1,9 +1,7 @@
-# A Shortcut to Reading
+## All products now offered 100% FREE OF CHARGE.
 
 ## Teaching or Learning English
 Learning English involves both learning to speak it and learning to read it.  This website is mostly about reading, and about teaching reading.
-
-## All products now offered 100% FREE OF CHARGE.
 
 **UNDERSTAND + SPEAK = SPOKEN ENGLISH  
 READ + WRITE = WRITTEN ENGLISH**
