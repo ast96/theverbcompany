@@ -1,5 +1,5 @@
 ---
-title: About
+title About
 ---
 
 This is the about file.
