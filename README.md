@@ -20,4 +20,6 @@ This website represents a new analysis of English reading and spelling (writing)
 
 It is the vowels (`A E I O U`) where the real problems with English spelling emerge, making English one of the most difficult alphabetic languages to learn to read.
 
-On this website a new teaching tool **UP THE LADDER** can be found that makes sense of English reading with the least amount of memorizing.
+On this website a new teaching tool **UP THE LADDER** can be found that makes sense of English reading with the least amount of memorizing. Up the Ladder is designed to teach English literacy (reading) with a **minimum amount of learning**. The vocabulary in the **first 30 lessons is 98% regular**; that is, a solid basis for the mechanics of reading is established before having to memorize exceptions.
+
+The trick is to organize what needs to be learned in such a way that nothing needs to be 'unlearned'! The product is based on phonics, but reading stories begins right away, **without having to memorize rules**. The phonics embedded in this product involves a new, extremely systematic way of conceptualizing English spelling generalizations. The product can be used for small groups in an ESL classroom, or **for self-teaching by an adult or a teenager**, on their own tablet, smartphone or laptop.  The **lessons are short and easy**, involving just watching and listening (and an occasional review exercise); learning can be completely self-paced.
