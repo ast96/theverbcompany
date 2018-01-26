@@ -2,6 +2,7 @@
 
 On this site:
 - [About](About.md)
+- [The reading problem](The-Reading-Problem.md)
 
 ## All products now offered 100% FREE OF CHARGE.
 
