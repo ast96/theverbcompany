@@ -1,8 +1,11 @@
-# A Shortcut to Reading
-
 On this site:
 - [About](About.md)
 - [The reading problem](The-Reading-Problem.md)
+- [The English vowel problem](The-English-Vowel-Problem.md)
+- [Free resources for teachers](Teacher-Resources.md)
+- [Technical description of product](Technical.md)
+- [References](References.md)
+- [Thanks](Thanks.md)
 
 ## All products now offered 100% FREE OF CHARGE.
 
