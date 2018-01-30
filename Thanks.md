@@ -15,4 +15,4 @@ I have received invaluable help during this process from various individuals.  T
 
 - Thanks to the audience of my informal Brown Bag presentation at Johns Hopkins, in April 2014, for feedback
 
-- Many thanks also to the my technical gurus, I. and A. Thomas!  Also thanks to P. Brattico for useful comments on the website.
+- Many thanks also to my technical gurus, I. and A. Thomas!  Also thanks to P. Brattico for useful comments on the website.
