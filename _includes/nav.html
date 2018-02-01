@@ -1,5 +1,33 @@
-<nav>
-  <ul>
+<!--<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    }
+
+    li {
+    float: left;
+    }
+
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    </style>
+  </head>
+
+  
+  <body>-->
+<nav class="mynav">
+  <ul class="mynavlist" style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333">
     {% for nav in site.data.nav %}
     {% if nav.subcategories != null %}
     <li>
@@ -16,8 +44,8 @@
       <a href="{{ nav.url }}">{{ nav.title }}</a>
     </li>
     {% else %}
-    <li>
-      <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+    <li style="float: left;" class="mynavlistitem">
+      <a href="{{ site.url }}{{ nav.href }}" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">{{ nav.title }}</a>
     </li>
     {% endif %}
     {% endfor %}
