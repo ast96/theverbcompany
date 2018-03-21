@@ -5,6 +5,8 @@
   href: "/About.html"
 
 - title: "Background"
-#  subcategories:
-#    - subtitle: "The reading problem"
-#      subhref: "/The-Reading-Problem.html"
+  subcategories:
+    - subtitle: "The Reading Problem"
+      subhref: "/The-Reading-Problem.html"
+    - subtitle: "The English Vowel Problem"
+      subhref: "/The-English-Vowel-Problem.html"

@@ -1,53 +1,25 @@
-<!--<!DOCTYPE html>
-<html>
-  <head>
-    <style>
-    ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    }
-
-    li {
-    float: left;
-    }
-
-    li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    }
-    </style>
-  </head>
-
-  
-  <body>-->
 <nav class="mynav">
-  <ul class="mynavlist" style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333">
+  <ul class="mynavlist">
     {% for nav in site.data.nav %}
     {% if nav.subcategories != null %}
-    <li>
-      <!--<a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} </a>-->
-      {{ nav.title }}
-      <ul>
+    <div class="subcategorylist">
+      <button class="subcategoryheader">{{ nav.title }}</button>
+      <div class="subcategorycontent">
 	{% for subcategory in nav.subcategories %}
-	<li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+	<a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
 	{% endfor %}
-      </ul>
-    </li>
+      </div>
+    </div>
     {% elsif nav.title == page.title %}
     <li class="active">
-      <a href="{{ nav.url }}">{{ nav.title }}</a>
+      <a class="activeitem" href="{{ nav.url }}">{{ nav.title }}</a>
     </li>
     {% else %}
-    <li style="float: left;" class="mynavlistitem">
-      <a href="{{ site.url }}{{ nav.href }}" style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;">{{ nav.title }}</a>
+    <li class="mynavlistitem">
+      <a href="{{ site.url }}{{ nav.href }}" class="mynavlistitemtext">{{ nav.title }}</a>
     </li>
     {% endif %}
     {% endfor %}
   </ul>
 </nav>
+
