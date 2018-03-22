@@ -28,7 +28,7 @@
  	<script>
 	  function myFunction() {
 	    var x = new Date(document.lastModified);
-	    document.getElementById("datemodified").innerHTML = x.toLocaleDateString("en-US");
+	    document.getElementById("datemodified").innerHTML = x.toDateString();
 	  }
 	  window.onload = myFunction;
 	</script>
