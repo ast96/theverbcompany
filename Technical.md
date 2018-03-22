@@ -3,7 +3,7 @@ title: Technical
 layout: default
 ---
 
-# A Technical/Theoretical Description of **Up the Ladder**
+# Technical/Theoretical Description of **Up the Ladder**
 
 **Up the Ladder** is a linguistically informed product is based on a phonemic/phonics approach to reading, using a new set of 43 spelling generalizations developed in a 57-page paper (*English reading and spelling rules for short words*, Vainikka 2013).  An example rule: "*Rule 4: The graphemes [...] CK, NG, PH, and SH are uniform*", where 'uniform' means always read the same way, at least in single-syllable words.  The ordering of the generalizations matters, since many of them involve the 'Elsewhere Principle', common in theoretical phonology (that is, one or two special subrules are given first, and all the rest involve a default generalization). 
 

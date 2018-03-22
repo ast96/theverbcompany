@@ -2,7 +2,15 @@
   href: "/"
 
 - title: "About"
-  href: "/About.html"
+  subcategories:
+    - subtitle: "Overview"
+      subhref: "/About.html"
+    - subtitle: "Technical"
+      subhref: "/Technical.html"
+    - subtitle: "References"
+      subhref: "/References.html"
+    - subtitle: "Thanks"
+      subhref: "/Thanks.html"
 
 - title: "Background"
   subcategories:
@@ -10,3 +18,17 @@
       subhref: "/The-Reading-Problem.html"
     - subtitle: "The English Vowel Problem"
       subhref: "/The-English-Vowel-Problem.html"
+
+- title: "Reading Product"
+  subcategories:
+    - subtitle: "Part 1: Start Reading"
+      subhref: "#"
+    - subtitle: "Part 2: Read More"
+      subhref: "#"
+    - subtitle: "Part 3: Read the End"
+      subhref: "#"
+    - subtitle: "Part 4: The Vowels AEIOU"
+      subhref: "#"
+
+- title: "For Teachers"
+  href: "/Teacher-Resources.html"

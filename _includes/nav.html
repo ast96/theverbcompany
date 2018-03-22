@@ -10,10 +10,12 @@
 	{% endfor %}
       </div>
     </div>
+    {% comment %}
     {% elsif nav.title == page.title %}
     <li class="active">
       <a class="activeitem" href="{{ nav.url }}">{{ nav.title }}</a>
     </li>
+    {% endcomment %}
     {% else %}
     <li class="mynavlistitem">
       <a href="{{ site.url }}{{ nav.href }}" class="mynavlistitemtext">{{ nav.title }}</a>
