@@ -31,7 +31,7 @@
     text-decoration: none;
 }
 
-.mynavlistitemtext:hover, .subcategorylist:hover {
+.mynavlistitemtext:hover, .subcategorylist:hover, .translatebutton:hover {
     background-color: #111;
 }
 
@@ -49,6 +49,11 @@
 .subcategorylist {
     float: left;
     overflow: hidden;
+}
+
+.translatebutton {
+    float: right;
+    padding: 2px 14px;
 }
 
 .subcategorycontent {

@@ -21,14 +21,16 @@
 
 - title: "Reading Product"
   subcategories:
+    - subtitle: "Instructions"
+      subhref: "/Reading-Product-Instructions.html"
     - subtitle: "Part 1: Start Reading"
-      subhref: "#"
+      subhref: "/Reading-Product-Part-1.html"
     - subtitle: "Part 2: Read More"
       subhref: "#"
     - subtitle: "Part 3: Read the End"
       subhref: "#"
-    - subtitle: "Part 4: The Vowels AEIOU"
-      subhref: "#"
+    - subtitle: "Part 4: The Vowels - AEIOU"
+      subhref: "/Reading-Product-Part-4.html"
 
 - title: "For Teachers"
   href: "/Teacher-Resources.html"
