@@ -1,3 +1,6 @@
+# This website is currently in development.
+# For the time being, please visit us at [theverbcompany.net](http://theverbcompany.net).
+
 ## All products now offered 100% FREE OF CHARGE.
 
 ## Teaching or Learning English
