@@ -12,6 +12,7 @@
 .project-tagline {
     opacity: 1;
     margin-bottom: 0.75rem;
+    text-decoration: none;
 }
 @media screen and (min-width: 64em) { .project-tagline { font-size: 1.75rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.725rem; } }
