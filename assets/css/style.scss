@@ -3,9 +3,7 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-//    max-height: 10em;
-}
+// The CSS here is often adapted from W3 Schools (www.w3schools.com) examples.
 
 @media screen and (min-width: 64em) { .page-header { padding: 0.75rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 0.75rem 4rem; } }
@@ -55,6 +53,21 @@
     float: right;
     padding: 2px 14px;
     height: 3.2em;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .main-content {
+    padding-top: 60px;
+}
+
+.main-content {
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
 
 .subcategorycontent {
