@@ -4,7 +4,7 @@ layout: default
 ---
 # Contact
 
-### Please fill this out to contact us.
+### Please fill this out to contact The Verb Company.
 
 
 <!--<form action="https://formspree.io/email@email.com"
