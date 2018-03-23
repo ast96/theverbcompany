@@ -19,7 +19,7 @@
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline { font-size: 1.725rem; } }
 @media screen and (max-width: 42em) { .project-tagline { font-size: 1.5rem; } }
 
-.mynavlistitem, .subcategorylist, .active {
+.mynavlistitem, .subcategorylist, .active, .contact {
     float: left;
 }
 
@@ -82,15 +82,6 @@
 .subcategorylist:hover .subcategorycontent {
     display: block;
 }
-
-/*.activeitem {
-    background-color: #159957;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}*/
 
 .mynavlist {
     list-style-type: none;
